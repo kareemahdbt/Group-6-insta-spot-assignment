@@ -1,7 +1,25 @@
 /* @kareema font family link go below */
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 :root {
   /* kareemahdt */
+    --color-black: #000000;
+    --color-white: #ffffff;
+    --color-dark-gray: #212121;
+    --color-light-gray:#d1d1d1;
+    --border-radius:8px;
+    --border-width: 1px;
+    --padding-btn: 18px 32px;
+    --font-size:12px;
+    --font-size-button: 16px;
+    --font-weight-regular: 400;
+    --font-weight-bold:500;
+    --font-size-name:32px;
+    --font-size-subname:16px;
+    --content-width:1280px;
+    --gap: 8px;
+    --content-space-gap: 20px;
+    --content-padding-bottom:40px;
 }
 
 * {
@@ -12,9 +30,10 @@
 
 body {
   /* kareemahdt - kindly fill the styles below */
-  /* font-family: ; */
-  /* background-color: ; */
+    font-family: "Poppins", sans-serif;
+    background-color: #FCF5E5;     
 }
+
 
 .container {
   max-width: 1440px;
