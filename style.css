@@ -1,0 +1,60 @@
+/* @kareema font family link go below */
+
+:root {
+  /* kareemahdt */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* kareemahdt - kindly fill the styles below */
+  /* font-family: ; */
+  /* background-color: ; */
+}
+
+.container {
+  max-width: 1440px;
+  margin: auto;
+  padding: 0 80px;
+}
+
+/**************************************/
+/* Header*/
+/**************************************/
+
+/* Innocent */
+
+/**************************************/
+/* Section - hero */
+/**************************************/
+
+/* wise */
+
+/**************************************/
+/* Section - grid */
+/**************************************/
+
+/*  Osamudiameh  */
+
+/**************************************/
+/* Footer */
+/**************************************/
+
+/* oma */
+
+/**************************************/
+/* Media query */
+/**************************************/
+@media (max-width: 400px) {
+  .container {
+    padding: 0 16px;
+  }
+}
+
+/* kosi */
+
+/* tawa */
